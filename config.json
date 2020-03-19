@@ -1,0 +1,15 @@
+{
+  "general": {
+    "helpEmail": "",
+    "partnerEmail": "",
+    "darkSkyKey": ""
+  },
+  "development": {
+    "apiUrl": "http://localhost:8082/",
+    "googlePlaceKey": ""
+  },
+  "production": {
+    "apiUrl": "http://localhost:8082/",
+    "googlePlaceKey": ""
+  }
+}
